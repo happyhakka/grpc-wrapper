@@ -1,0 +1,10 @@
+{
+    "FilePath"  : "demo.log",
+    "Level"     : "info",
+    "MaxSize"   : 1,
+    "MaxBackups": 7,
+    "MaxAge"    : 7,
+    "Compress"  : true,
+    "Console"   : true,
+    "LevelValue": "debug,info,warn,error,panic,fatal"
+}

@@ -1,0 +1,10 @@
+{
+    "FilePath"  : "app.log",
+    "Level"     : "info",
+    "MaxSize"   : 500,
+    "MaxBackups": 7,
+    "MaxAge"    : 7,
+    "Compress"  : true,
+    "Console"   : true,
+    "LevelValue": "debug,info,warn,error,panic,fatal"
+}
